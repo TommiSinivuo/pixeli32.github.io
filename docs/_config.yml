@@ -28,7 +28,7 @@ twitter_username: TommiSinivuo
 github_username:  TommiSinivuo
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
