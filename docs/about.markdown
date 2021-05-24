@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Tommi Sinivuo, a self-taught professional programmer and wannabe hobbyist
+game developer. I'm currently working on a puzzle game inspired by the
+mechanics of Boulder Dash and the likes. My content will probably be related
+to that and the [Zig programming language](https://ziglang.org) - a new low
+level programming language, which I'm using to develop the game.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find me online on [Twitter](https://twitter.com/TommiSinivuo) and
+[Github](https://github.com/TommiSinivuo).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
