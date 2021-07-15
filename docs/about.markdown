@@ -11,5 +11,5 @@ the mechanics of Boulder Dash and the likes, so my content will probably be
 highly related to that and the [Zig programming language](https://ziglang.org) -
 a new low level programming language, which I'm using to develop the game.
 
-You can find me online on [Twitter](https://twitter.com/imPixeli) and
+You can find me online on [Twitter](https://twitter.com/TommiSinivuo) and
 [Github](https://github.com/TommiSinivuo).
