@@ -12,4 +12,4 @@ highly related to that and the [Zig programming language](https://ziglang.org) -
 a new low level programming language, which I'm using to develop the game.
 
 You can find me online on [Twitter](https://twitter.com/pixeli32) and
-[Github](https://github.com/TommiSinivuo).
+[Github](https://github.com/pixeli32).
